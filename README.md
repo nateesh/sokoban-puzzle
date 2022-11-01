@@ -1,6 +1,6 @@
 *An AI assignment by Nina and Nathan*
 
-We implement a provided `search.py` module to solve the Sokoban puzzle and its weighted variation. `mySokobanSolver.py` shows our interface to the search module detailing initial state, initial static puzzle features, legal actions for the agent, state updates, path cost function, admissible heuristic function.
+We implement a provided `search.py` module to solve the Sokoban puzzle and its weighted variation. `mySokobanSolver.py` shows our interface to the search module detailing initial state, static puzzle features, legal actions for the agent, how state updates, a path cost function and an admissible heuristic function.
 
 ![](images/readme-screenshot.jpg)
 
